@@ -34,3 +34,8 @@ s.no|s.name|s.marks
 ![image](hi.jpg)
 ![image](hi.jpg)
 ![image](hi.jpg)
+# code
+a=1
+b=2
+c=a+b
+print("sum=",c)
