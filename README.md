@@ -1,1 +1,25 @@
-# rep5
+# Introduction colorepo
+this is head1
+
+## head2
+this is heading2
+
+# what is java
+java is oops program
+
+# what are oops concept in java
+* class and objects
+  $ nnk
+    & namburu
+* inheritance
+* abstraction
+* polymorphism
+* encapsulation
+# ordered list
+1. vsdlfg
+2. fbhvvvuawlv
+# tell
+hi *namburu*
+# create a link
+syntax for create a link in markdown [text](url)
+ex:[google](https://www.google.com)
