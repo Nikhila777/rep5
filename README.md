@@ -30,4 +30,6 @@ s.no|s.name|s.marks
 2|siva|95
 3|janu|90
 4|ammu|85
+# insert image
+![image](hi.jpg)
 
