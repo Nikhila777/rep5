@@ -32,4 +32,5 @@ s.no|s.name|s.marks
 4|ammu|85
 # insert image
 ![image](hi.jpg)
-
+![image](hi.jpg)
+![image](hi.jpg)
